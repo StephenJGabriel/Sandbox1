@@ -8,9 +8,10 @@ public class Arrays {
 		/* variables */
 		int[] dfa = new int[10]; 
 		int cntOfEntries = 10;
-        int sub = 0;  // used as subscript for the array
-        long key; // the element we'ren looking for
-        Random random = new Random(100);
+		int sub = 0;  // used as subscript for the array
+		long key; // the element we'ren looking for
+		Random random = new Random(100);
+		// editing with git
 
 		
 	}
