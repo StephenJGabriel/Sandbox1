@@ -1,8 +1,9 @@
 package arraysandbox;
 
 import java.util.Random;
+import java.util.Arrays;
 
-public class Arrays {
+public class displayingArrays {
 
 	public static void main(String[] args) {
 		/* variables */
@@ -28,8 +29,13 @@ public class Arrays {
         	System.out.print(a + ",");
         }
         
-
-		
-	}
-
+        System.out.println(" ");
+        System.out.println("Using the Arrays.toString method");
+        System.out.println(Arrays.toString(dfa));     
+                 
+        
+	} // end main
+	
+	
+    
 }
